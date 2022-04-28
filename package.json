@@ -1,7 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "@actions/cache": "*",
     "@actions/core": "*",
     "@actions/exec": "*",
     "@actions/github": "*"
